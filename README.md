@@ -79,10 +79,3 @@ Futuramente, pretendo adicionar validações com Zod, testes com Jest e criar um
 📧 Contato
 Caso queira trocar ideias, contribuir ou acompanhar minha evolução na programação, conecte-se comigo no [Linkedin](https://www.linkedin.com/in/apenasjoo/)
 
-### ✅ Dica final:
-
-- Troque `https://github.com/seu-usuario/seu-repositorio.git` pelo link real do seu repositório.
-- Se for usar outro banco além do SQLite, atualize no campo "Tecnologias Utilizadas".
-- Depois, adicione um arquivo `.env.example` com variáveis como `DATABASE_URL` e `JWT_SECRET`, isso mostra cuidado com boas práticas.
-
-Se quiser, posso te ajudar a gerar esse `.env.example` também. Deseja?
