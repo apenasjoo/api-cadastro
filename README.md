@@ -46,18 +46,21 @@ Este projeto foi criado com fins **educacionais**, marcando meu primeiro contato
 
 
 
-   Instale as dependências:
+2. Instale as dependências:
+   ```bash
+   npm install
 
 
-npm install
-Configure o banco de dados com Prisma:
+3. Configure o banco de dados com Prisma:
+   ```bash
+   npx prisma migrate dev
 
 
-npx prisma migrate dev
-Inicie o servidor de desenvolvimento:
+4. Inicie o servidor de desenvolvimento:
+   ```bash
+   npm run dev
 
 
-npm run dev
 
 
 
@@ -72,6 +75,9 @@ Futuramente, pretendo adicionar validações com Zod, testes com Jest e criar um
 
 
 ---
+
+📧 Contato
+Caso queira trocar ideias, contribuir ou acompanhar minha evolução na programação, conecte-se comigo no [Linkedin](https://www.linkedin.com/in/apenasjoo/)
 
 ### ✅ Dica final:
 
