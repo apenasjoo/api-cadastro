@@ -1,6 +1,6 @@
 # 🛠️ API de Cadastro - Projeto de Estudo
 
-Este repositório contém uma **API de cadastro de usuários** desenvolvida com o objetivo de **estudar e aplicar na prática tecnologias modernas do ecossistema Node.js**, como:
+Este **API de cadastro de usuários** desenvolvida com o objetivo de **estudar e aplicar na prática tecnologias modernas do ecossistema Node.js**, como:
 
 - **Node.js** & **Express** – Para criação do servidor e definição das rotas HTTP;
 - **Prisma ORM** – Para modelagem e manipulação do banco de dados de forma eficiente;
